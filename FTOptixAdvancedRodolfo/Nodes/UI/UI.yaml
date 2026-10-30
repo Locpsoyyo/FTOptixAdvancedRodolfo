@@ -252,7 +252,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Tanque 1 � Monitoreo MQTT"}
+      Value: {"LocaleId":"en-US","Text":"Tanque 1 — Monitoreo MQTT"}
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -331,7 +331,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Nivel publicado � Publisher"}
+      Value: {"LocaleId":"en-US","Text":"Nivel publicado — Publisher"}
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -400,7 +400,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Nivel recibido � Subscriber"}
+      Value: {"LocaleId":"en-US","Text":"Nivel recibido — Subscriber"}
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
