@@ -1,0 +1,7 @@
+Name: Subscriber
+Id: g=583d868f09f6e4366ad4ac1553fd8dc8
+Type: FolderType
+Children:
+- Name: TankLevel
+  Type: BaseDataVariableType
+  DataType: Double
